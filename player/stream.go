@@ -2,8 +2,8 @@ package player
 
 import (
 	"bytes"
-	librespot "github.com/devgianlu/go-librespot"
-	metadatapb "github.com/devgianlu/go-librespot/proto/spotify/metadata"
+	librespot "github.com/kotahu/go-librespot"
+	metadatapb "github.com/kotahu/go-librespot/proto/spotify/metadata"
 )
 
 type Stream struct {

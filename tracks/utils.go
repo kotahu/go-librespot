@@ -1,8 +1,8 @@
 package tracks
 
 import (
-	librespot "github.com/devgianlu/go-librespot"
-	connectpb "github.com/devgianlu/go-librespot/proto/spotify/connectstate"
+	librespot "github.com/kotahu/go-librespot"
+	connectpb "github.com/kotahu/go-librespot/proto/spotify/connectstate"
 )
 
 func ContextTrackComparator(typ librespot.SpotifyIdType, target *connectpb.ContextTrack) func(*connectpb.ContextTrack) bool {

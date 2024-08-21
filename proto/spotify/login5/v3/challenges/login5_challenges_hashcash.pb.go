@@ -7,7 +7,7 @@
 package challenges
 
 import (
-	google "github.com/devgianlu/go-librespot/proto/google"
+	google "github.com/kotahu/go-librespot/proto/google"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

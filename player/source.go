@@ -2,7 +2,7 @@ package player
 
 import (
 	"errors"
-	librespot "github.com/devgianlu/go-librespot"
+	librespot "github.com/kotahu/go-librespot"
 	"io"
 	"sync"
 )

@@ -7,7 +7,7 @@
 package connectstate
 
 import (
-	devices "github.com/devgianlu/go-librespot/proto/spotify/connectstate/devices"
+	devices "github.com/kotahu/go-librespot/proto/spotify/connectstate/devices"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

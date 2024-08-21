@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/cenkalti/backoff/v4"
-	librespot "github.com/devgianlu/go-librespot"
+	librespot "github.com/kotahu/go-librespot"
 	log "github.com/sirupsen/logrus"
 	"math"
 	"net/http"

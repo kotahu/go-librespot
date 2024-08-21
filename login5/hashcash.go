@@ -2,8 +2,8 @@ package login5
 
 import (
 	"crypto/sha1"
-	"github.com/devgianlu/go-librespot/proto/google"
-	challengespb "github.com/devgianlu/go-librespot/proto/spotify/login5/v3/challenges"
+	"github.com/kotahu/go-librespot/proto/google"
+	challengespb "github.com/kotahu/go-librespot/proto/spotify/login5/v3/challenges"
 	"math/bits"
 	"time"
 )

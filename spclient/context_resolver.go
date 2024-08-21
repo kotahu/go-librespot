@@ -3,8 +3,8 @@ package spclient
 import (
 	"encoding/json"
 	"fmt"
-	librespot "github.com/devgianlu/go-librespot"
-	connectpb "github.com/devgianlu/go-librespot/proto/spotify/connectstate"
+	librespot "github.com/kotahu/go-librespot"
+	connectpb "github.com/kotahu/go-librespot/proto/spotify/connectstate"
 	log "github.com/sirupsen/logrus"
 	"golang.org/x/exp/maps"
 	"io"

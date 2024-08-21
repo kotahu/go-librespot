@@ -2,9 +2,9 @@ package tracks
 
 import (
 	"fmt"
-	librespot "github.com/devgianlu/go-librespot"
-	connectpb "github.com/devgianlu/go-librespot/proto/spotify/connectstate"
-	"github.com/devgianlu/go-librespot/spclient"
+	librespot "github.com/kotahu/go-librespot"
+	connectpb "github.com/kotahu/go-librespot/proto/spotify/connectstate"
+	"github.com/kotahu/go-librespot/spclient"
 	log "github.com/sirupsen/logrus"
 	"golang.org/x/exp/rand"
 )

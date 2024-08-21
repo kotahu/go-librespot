@@ -4,10 +4,10 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/devgianlu/go-librespot/ap"
-	"github.com/devgianlu/go-librespot/audio"
-	"github.com/devgianlu/go-librespot/dealer"
-	"github.com/devgianlu/go-librespot/spclient"
+	"github.com/kotahu/go-librespot/ap"
+	"github.com/kotahu/go-librespot/audio"
+	"github.com/kotahu/go-librespot/dealer"
+	"github.com/kotahu/go-librespot/spclient"
 )
 
 func (s *Session) Username() string {

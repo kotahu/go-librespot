@@ -1,4 +1,4 @@
-module github.com/devgianlu/go-librespot
+module github.com/kotahu/go-librespot
 
 go 1.22.2
 

@@ -7,9 +7,9 @@
 package v3
 
 import (
-	challenges "github.com/devgianlu/go-librespot/proto/spotify/login5/v3/challenges"
-	credentials "github.com/devgianlu/go-librespot/proto/spotify/login5/v3/credentials"
-	identifiers "github.com/devgianlu/go-librespot/proto/spotify/login5/v3/identifiers"
+	challenges "github.com/kotahu/go-librespot/proto/spotify/login5/v3/challenges"
+	credentials "github.com/kotahu/go-librespot/proto/spotify/login5/v3/credentials"
+	identifiers "github.com/kotahu/go-librespot/proto/spotify/login5/v3/identifiers"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

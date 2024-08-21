@@ -2,13 +2,13 @@ package player
 
 import (
 	"fmt"
-	librespot "github.com/devgianlu/go-librespot"
-	"github.com/devgianlu/go-librespot/audio"
-	"github.com/devgianlu/go-librespot/output"
-	downloadpb "github.com/devgianlu/go-librespot/proto/spotify/download"
-	"github.com/devgianlu/go-librespot/proto/spotify/metadata"
-	"github.com/devgianlu/go-librespot/spclient"
-	"github.com/devgianlu/go-librespot/vorbis"
+	librespot "github.com/kotahu/go-librespot"
+	"github.com/kotahu/go-librespot/audio"
+	"github.com/kotahu/go-librespot/output"
+	downloadpb "github.com/kotahu/go-librespot/proto/spotify/download"
+	"github.com/kotahu/go-librespot/proto/spotify/metadata"
+	"github.com/kotahu/go-librespot/spclient"
+	"github.com/kotahu/go-librespot/vorbis"
 	log "github.com/sirupsen/logrus"
 	"time"
 )

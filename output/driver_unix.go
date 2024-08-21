@@ -10,7 +10,7 @@ import "C"
 import (
 	"errors"
 	"fmt"
-	librespot "github.com/devgianlu/go-librespot"
+	librespot "github.com/kotahu/go-librespot"
 	log "github.com/sirupsen/logrus"
 	"golang.org/x/sys/unix"
 	"io"

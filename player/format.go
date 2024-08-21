@@ -1,7 +1,7 @@
 package player
 
 import (
-	metadatapb "github.com/devgianlu/go-librespot/proto/spotify/metadata"
+	metadatapb "github.com/kotahu/go-librespot/proto/spotify/metadata"
 )
 
 func formatBitrate(format metadatapb.AudioFile_Format) int {

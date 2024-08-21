@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"errors"
 	"fmt"
-	librespot "github.com/devgianlu/go-librespot"
+	librespot "github.com/kotahu/go-librespot"
 	log "github.com/sirupsen/logrus"
 	"github.com/xlab/vorbis-go/vorbis"
 	"io"
